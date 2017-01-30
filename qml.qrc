@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/KeyMap.qml</file>
+        <file>qml/sprite_sheet.png</file>
+        <file>qml/BulletExplosion.qml</file>
+        <file>qml/explosion.js</file>
+        <file>qml/TankExplosion.qml</file>
+        <file>qml/base/class.js</file>
+        <file>qml/base/Empty.qml</file>
+        <file>qml/base/gameobject.js</file>
+        <file>qml/movable/bullet.js</file>
+        <file>qml/movable/Bullet.qml</file>
+        <file>qml/movable/bulletcontroller.js</file>
+        <file>qml/movable/controller.js</file>
+        <file>qml/movable/localplayercontroller.js</file>
+        <file>qml/movable/movableobject.js</file>
+        <file>qml/movable/tank.js</file>
+        <file>qml/movable/Tank.qml</file>
+        <file>qml/movable/Player.qml</file>
+        <file>qml/movable/Enemy.qml</file>
+        <file>qml/obstacles/LevelBoundary.qml</file>
+        <file>qml/spawnpoint.js</file>
+        <file>qml/SpawnPoint.qml</file>
+        <file>qml/movable/enemycontroller.js</file>
+        <file>qml/TouchButtons.qml</file>
+        <file>qml/movable/touchcontroller.js</file>
+        <file>qml/obstacles/Bricks.qml</file>
+        <file>qml/obstacles/Concrete.qml</file>
+        <file>qml/levels/level1.js</file>
+        <file>qml/spritesheet.js</file>
+        <file>qml/movable/player.js</file>
+        <file>qml/Level.qml</file>
+        <file>qml/levelhelpers.js</file>
+        <file>qml/movable/enemy.js</file>
+        <file>qml/obstacles/headquarters.js</file>
+        <file>qml/obstacles/Headquarters.qml</file>
+        <file>qml/levels/win.js</file>
+        <file>qml/ScreenFade.qml</file>
+        <file>qml/StageLabel.qml</file>
+        <file>qml/HUD.qml</file>
+    </qresource>
+</RCC>
